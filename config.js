@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['Tidak Ada']
 global.channelYT = ['https://tinyurl.com/yjnjpsyv'] 
-global.owner = ['6285804289247', '6285804289247', '6285804289247']// Put your number here
-global.mods = ['6285804289247', '6285804289247', '6285804289247'] // Want some help?
-global.prems = ['6285804289247'] // Premium user has unlimited limit
+global.owner = ['6283141445553', '6283141445553', '6283141445553']// Put your number here
+global.mods = ['6283141445553', '6283141445553', '6283141445553'] // Want some help?
+global.prems = ['6283141445553'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '\n         Punya\n\n         SABIQ\n\n\n+6285804289247'
+global.packname = '\n         Punya\n\n         FADIL\n\n\n+6283141445553'
 global.author = ''
 
 global.multiplier = 69 // The higher, The harder levelup
